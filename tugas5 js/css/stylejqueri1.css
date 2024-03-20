@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  margin: auto;
+  background-color: aliceblue;
+}
+#div1,
+#div2,
+#div3 {
+  display: inline-block;
+  margin: auto;
+  width: 50%;
+  color: purple;
+  background-color: aqua;
+  border: 3px solid #ddd;
+  padding: 10px;
+  height: 400px;
+  text-align: center;
+  cursor: pointer;
+}
