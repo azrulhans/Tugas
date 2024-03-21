@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.carousel-item img {
+  margin: 0 auto;
+  max-height: 800px;
+  object-fit: contain;
+}
